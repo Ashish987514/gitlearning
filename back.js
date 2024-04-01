@@ -130,3 +130,7 @@ git branch -to check branch
 git branch -M new_name =to rename branch 
 
 */
+/**
+git push --set -upstream origin feature
+
+ */

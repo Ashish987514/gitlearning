@@ -139,3 +139,14 @@ git merge branch_name -to merge 2 branches
 
 
  */
+//now go github, a new compare pull request option will be appear at the top
+//there may be a request willl appear if we have same files in both branches 
+//if not we can directly merge both the files
+
+
+//if we have something extra or differrent on github we van also pull 
+/*
+git pull origin main
+*/
+
+//merge conflicts -when github is unable to resolve differences in code between two commits

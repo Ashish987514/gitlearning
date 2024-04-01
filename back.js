@@ -127,10 +127,15 @@ git remote -v =to verify remote,,from which repo vs code is fetching snd pushing
 
 git branch -to check branch
 
-git branch -M new_name =to rename branch 
+git branch -M new_name = to rename branch 
 
 */
 /**
 git push --set -upstream origin feature
+
+git diff branch_name- to compare commits/branchesfiles and more
+
+git merge branch_name -to merge 2 branches 
+
 
  */

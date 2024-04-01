@@ -127,7 +127,7 @@ git remote -v =to verify remote,,from which repo vs code is fetching snd pushing
 
 git branch -to check branch
 
-git branch -M new_name =to rename branch 
+git branch -M new_name = to rename branch 
 
 git push origin main -means pusing changes to main branch>origin ,,it will save changes to the repo we have set as origin
 
@@ -150,3 +150,24 @@ git checkout branch_name =to navigate to a branch
 git checkout -b branch_name =to create a new branch
 git branch -d branch_name =to delete a branch 
 */
+
+/**
+git push --set -upstream origin feature
+
+git diff branch_name- to compare commits/branchesfiles and more
+
+git merge branch_name -to merge 2 branches 
+
+
+ */
+//now go github, a new compare pull request option will be appear at the top
+//there may be a request willl appear if we have same files in both branches 
+//if not we can directly merge both the files
+
+
+//if we have something extra or differrent on github we van also pull 
+/*
+git pull origin main
+*/
+
+//merge conflicts -when github is unable to resolve differences in code between two commits

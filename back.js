@@ -129,4 +129,24 @@ git branch -to check branch
 
 git branch -M new_name =to rename branch 
 
+git push origin main -means pusing changes to main branch>origin ,,it will save changes to the repo we have set as origin
+
+git push -u origin main -if we use this command,,then now we can push things just by "git push"
+
+*/
+
+//in message if we write "Add name" then it adds Ashish sharma in the file
+
+
+//use of branches is epic really,we can make new branch from any branch for any new development /new type of code /bug fix branch
+//and at last we can merge changes in main branch ,wow
+
+
+//branch commands
+/*
+git branch -checkong branch
+git branch -M main =to rename branch 
+git checkout branch_name =to navigate to a branch 
+git checkout -b branch_name =to create a new branch
+git branch -d branch_name =to delete a branch 
 */

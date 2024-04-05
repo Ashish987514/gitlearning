@@ -150,3 +150,28 @@ git pull origin main
 */
 
 //merge conflicts -when github is unable to resolve differences in code between two commits
+
+
+//fixing mistakes 
+/*
+git reset file_name-unadd/unstage any change which we have added but not commited 
+git reset-unadd all 
+
+git reset HEAD~1 =when we want to undo our just last commits :)
+
+
+git log -see all commits info done previously till
+
+
+git reset hash_code_of_step-undo to this step,with new changes remains same 
+git reset --hard hash_code= undo to this step without new changes 
+*/
+
+
+
+//forking in github-apni account ke andar kisi ke bhi code ki copy banana
+//we can also rename the repo in th e process 
+//we can copy only main branch or all branchs ki copy 
+
+//we can use pull request for merging our two branches or *merging our code to anyone's repo's main branch 
+
